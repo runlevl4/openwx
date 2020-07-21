@@ -9,19 +9,6 @@ import (
 	"os"
 )
 
-/*
-{
-    "id": 833,
-    "name": "Ḩeşār-e Sefīd",
-    "state": "",
-    "country": "IR",
-    "coord": {
-      "lon": 47.159401,
-      "lat": 34.330502
-    }
-  },
-*/
-
 const (
 	// datafile = "city-list-small.json"
 	datafile = "city.list.json"
