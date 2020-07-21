@@ -1,0 +1,102 @@
+[
+    {
+    "id": 4046255,
+    "name": "Bay Minette",
+    "state": "AL",
+    "country": "US",
+    "coord": {
+      "lon": -87.773048,
+      "lat": 30.882959
+    }
+  },
+  {
+    "id": 833,
+    "name": "Ḩeşār-e Sefīd",
+    "state": "",
+    "country": "IR",
+    "coord": {
+      "lon": 47.159401,
+      "lat": 34.330502
+    }
+  },
+  {
+    "id": 2960,
+    "name": "‘Ayn Ḩalāqīm",
+    "state": "",
+    "country": "SY",
+    "coord": {
+      "lon": 36.321911,
+      "lat": 34.940079
+    }
+  },
+  {
+    "id": 4046274,
+    "name": "Edna",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -96.646088,
+      "lat": 28.97859
+    }
+  },
+  {
+    "id": 2965381,
+    "name": "Clondalkin",
+    "state": "",
+    "country": "IE",
+    "coord": {
+      "lon": -6.39722,
+      "lat": 53.32444
+    }
+  },
+  {
+    "id": 4046319,
+    "name": "Bayou La Batre",
+    "state": "AL",
+    "country": "US",
+    "coord": {
+      "lon": -88.24852,
+      "lat": 30.403521
+    }
+  },
+  {
+    "id": 4046332,
+    "name": "Henderson",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -94.799377,
+      "lat": 32.153221
+    }
+  },
+  {
+    "id": 6533982,
+    "name": "Vilafranca de Bonany",
+    "state": "",
+    "country": "ES",
+    "coord": {
+      "lon": 3.08613,
+      "lat": 39.568779
+    }
+  },
+  {
+    "id": 6533983,
+    "name": "Ariany",
+    "state": "",
+    "country": "ES",
+    "coord": {
+      "lon": 3.10922,
+      "lat": 39.64978
+    }
+  },
+  {
+    "id": 4046430,
+    "name": "Natalia",
+    "state": "TX",
+    "country": "US",
+    "coord": {
+      "lon": -98.862534,
+      "lat": 29.18968
+    }
+  }
+]
